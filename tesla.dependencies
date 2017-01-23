@@ -9,19 +9,19 @@
     "remote": "github",
     "repository":  "desaishivam26/android_kernel_motorola_msm8916",
     "target_path": "kernel/motorola/msm8916",
-    "branch": "n7.0"
+    "branch": "cm-14.1"
   },
   {
     "remote": "github",
-    "repository": "Alberto97/proprietary_vendor_motorola",
+    "repository": "desaishivam26/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "branch": "cm-14.0"
+    "branch": "cm-14.1"
   },
   {
     "remote": "github",
-    "repository": "Cyanogenmod/android_external_bson",
+    "repository": "LineageOS/android_external_bson",
     "target_path": "external/bson",
-    "branch": "cm-13.0"
+    "branch": "cm-14.1"
   }
 ]
 
