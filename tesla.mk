@@ -28,3 +28,6 @@ PRODUCT_RELEASE_NAME := lux
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="Moto X Play"
+
+# Root Method
+DEFAULT_ROOT_METHOD := rootless
